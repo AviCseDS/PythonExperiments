@@ -51,5 +51,4 @@ def main():
         else:
             print("Invalid choice, please try again.")
 
-# Uncomment the following line to run the program (but be aware that input will not be interactive in Jupyter)
 main()
