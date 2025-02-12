@@ -1,3 +1,4 @@
+# Avi Patle Roll No:15 Assignment 01 SE3_S1
 class Product:
     def __init__(self, name, price, stock):
         self.name = name
